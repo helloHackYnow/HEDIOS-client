@@ -4,6 +4,6 @@ This is a small cpp client I'm writing for the [Hedios protocol](https://github.
 
 ## Disclaimer 
 
-This repo is the result of a bit less than a week of work. I am aware of the incompleteness of this protocol, but it's still in is infant stage.
+This repo is the result of a bit less than a week of work. I am aware of the incompleteness of this client, but it's still in is infant stage.
 
 I will happily accept any form of suggestion to this project, on which I can only work on my spare time.
